@@ -8,6 +8,7 @@
 			<groupId>com.weicoder</groupId>
 			<artifactId>dao</artifactId>
 			<version>3.5.8</version>
+			
 </dependency>
 	</dependencies>
 </project>
